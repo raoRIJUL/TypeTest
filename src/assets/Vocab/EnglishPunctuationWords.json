@@ -1,0 +1,1002 @@
+{
+    "0": {
+        "key": "ubiquitous",
+        "val": "ubiquitous."
+    },
+    "1": {
+        "key": "serendipity",
+        "val": "serendipity?"
+    },
+    "2": {
+        "key": "ephemeral",
+        "val": "ephemeral,"
+    },
+    "3": {
+        "key": "obfuscate",
+        "val": "obfuscate;"
+    },
+    "4": {
+        "key": "vicissitude",
+        "val": "vicissitude!"
+    },
+    "5": {
+        "key": "sesquipedalian",
+        "val": "sesquipedalian:"
+    },
+    "6": {
+        "key": "labyrinthine",
+        "val": "labyrinthine."
+    },
+    "7": {
+        "key": "peregrinate",
+        "val": "peregrinate?"
+    },
+    "8": {
+        "key": "pusillanimous",
+        "val": "pusillanimous;"
+    },
+    "9": {
+        "key": "perspicacious",
+        "val": "perspicacious."
+    },
+    "10": {
+        "key": "quixotic",
+        "val": "quixotic,"
+    },
+    "11": {
+        "key": "idiosyncrasy",
+        "val": "idiosyncrasy!"
+    },
+    "12": {
+        "key": "garrulous",
+        "val": "garrulous:"
+    },
+    "13": {
+        "key": "anachronistic",
+        "val": "anachronistic."
+    },
+    "14": {
+        "key": "lackadaisical",
+        "val": "lackadaisical?"
+    },
+    "15": {
+        "key": "defenestration",
+        "val": "defenestration!"
+    },
+    "16": {
+        "key": "quizzaciously",
+        "val": "quizzaciously."
+    },
+    "17": {
+        "key": "insouciance",
+        "val": "insouciance,"
+    },
+    "18": {
+        "key": "ephemeral",
+        "val": "ephemeral:"
+    },
+    "19": {
+        "key": "verisimilitude",
+        "val": "verisimilitude."
+    },
+    "20": {
+        "key": "discombobulate",
+        "val": "discombobulate?"
+    },
+    "21": {
+        "key": "antediluvian",
+        "val": "antediluvian:"
+    },
+    "22": {
+        "key": "sesquipedalian",
+        "val": "sesquipedalian!"
+    },
+    "23": {
+        "key": "antidisestablishmentarianism",
+        "val": "antidisestablishmentarianism,"
+    },
+    "24": {
+        "key": "onomatopoeia",
+        "val": "onomatopoeia?"
+    },
+    "25": {
+        "key": "proclivity",
+        "val": "proclivity!"
+    },
+    "26": {
+        "key": "disparate",
+        "val": "disparate,"
+    },
+    "27": {
+        "key": "quidnunc",
+        "val": "quidnunc:"
+    },
+    "28": {
+        "key": "exacerbate",
+        "val": "exacerbate!"
+    },
+    "29": {
+        "key": "cynosure",
+        "val": "cynosure,"
+    },
+    "30": {
+        "key": "verisimilitude",
+        "val": "verisimilitude."
+    },
+    "31": {
+        "key": "obfuscate",
+        "val": "obfuscate?"
+    },
+    "32": {
+        "key": "vicissitude",
+        "val": "vicissitude."
+    },
+    "33": {
+        "key": "quizzaciously",
+        "val": "quizzaciously;"
+    },
+    "34": {
+        "key": "perspicacious",
+        "val": "perspicacious!"
+    },
+    "35": {
+        "key": "garrulous",
+        "val": "garrulous:"
+    },
+    "36": {
+        "key": "lackadaisical",
+        "val": "lackadaisical."
+    },
+    "37": {
+        "key": "defenestration",
+        "val": "defenestration!"
+    },
+    "38": {
+        "key": "quixotic",
+        "val": "quixotic;"
+    },
+    "39": {
+        "key": "idiosyncrasy",
+        "val": "idiosyncrasy."
+    },
+    "40": {
+        "key": "serendipity",
+        "val": "serendipity!"
+    },
+    "41": {
+        "key": "labyrinthine",
+        "val": "labyrinthine:"
+    },
+    "42": {
+        "key": "peregrinate",
+        "val": "peregrinate."
+    },
+    "43": {
+        "key": "ubiquitous",
+        "val": "ubiquitous;"
+    },
+    "44": {
+        "key": "antidisestablishmentarianism",
+        "val": "antidisestablishmentarianism!"
+    },
+    "45": {
+        "key": "onomatopoeia",
+        "val": "onomatopoeia."
+    },
+    "46": {
+        "key": "proclivity",
+        "val": "proclivity;"
+    },
+    "47": {
+        "key": "disparate",
+        "val": "disparate."
+    },
+    "48": {
+        "key": "quidnunc",
+        "val": "quidnunc!"
+    },
+    "49": {
+        "key": "exacerbate",
+        "val": "exacerbate;"
+    },
+    "50": {
+        "key": "cynosure",
+        "val": "cynosure!"
+    },
+    "51": {
+        "key": "verisimilitude",
+        "val": "verisimilitude;"
+    },
+    "52": {
+        "key": "obfuscate",
+        "val": "obfuscate."
+    },
+    "53": {
+        "key": "vicissitude",
+        "val": "vicissitude;"
+    },
+    "54": {
+        "key": "quizzaciously",
+        "val": "quizzaciously!"
+    },
+    "55": {
+        "key": "perspicacious",
+        "val": "perspicacious;"
+    },
+    "56": {
+        "key": "garrulous",
+        "val": "garrulous!"
+    },
+    "57": {
+        "key": "lackadaisical",
+        "val": "lackadaisical;"
+    },
+    "58": {
+        "key": "defenestration",
+        "val": "defenestration."
+    },
+    "59": {
+        "key": "quixotic",
+        "val": "quixotic!"
+    },
+    "60": {
+        "key": "idiosyncrasy",
+        "val": "idiosyncrasy;"
+    },
+    "61": {
+        "key": "serendipity",
+        "val": "serendipity."
+    },
+    "62": {
+        "key": "labyrinthine",
+        "val": "labyrinthine!"
+    },
+    "63": {
+        "key": "peregrinate",
+        "val": "peregrinate;"
+    },
+    "64": {
+        "key": "ubiquitous",
+        "val": "ubiquitous!"
+    },
+    "65": {
+        "key": "antidisestablishmentarianism",
+        "val": "antidisestablishmentarianism;"
+    },
+    "66": {
+        "key": "onomatopoeia",
+        "val": "onomatopoeia!"
+    },
+    "67": {
+        "key": "proclivity",
+        "val": "proclivity."
+    },
+    "68": {
+        "key": "disparate",
+        "val": "disparate;"
+    },
+    "69": {
+        "key": "quidnunc",
+        "val": "quidnunc."
+    },
+    "70": {
+        "key": "exacerbate",
+        "val": "exacerbate;"
+    },
+    "71": {
+        "key": "cynosure",
+        "val": "cynosure."
+    },
+    "72": {
+        "key": "verisimilitude",
+        "val": "verisimilitude!"
+    },
+    "73": {
+        "key": "obfuscate",
+        "val": "obfuscate;"
+    },
+    "74": {
+        "key": "vicissitude",
+        "val": "vicissitude."
+    },
+    "75": {
+        "key": "quizzaciously",
+        "val": "quizzaciously!"
+    },
+    "76": {
+        "key": "perspicacious",
+        "val": "perspicacious;"
+    },
+    "77": {
+        "key": "garrulous",
+        "val": "garrulous!"
+    },
+    "78": {
+        "key": "lackadaisical",
+        "val": "lackadaisical;"
+    },
+    "79": {
+        "key": "defenestration",
+        "val": "defenestration."
+    },
+    "80": {
+        "key": "quixotic",
+        "val": "quixotic!"
+    },
+    "81": {
+        "key": "idiosyncrasy",
+        "val": "idiosyncrasy;"
+    },
+    "82": {
+        "key": "serendipity",
+        "val": "serendipity."
+    },
+    "83": {
+        "key": "labyrinthine",
+        "val": "labyrinthine!"
+    },
+    "84": {
+        "key": "peregrinate",
+        "val": "peregrinate;"
+    },
+    "85": {
+        "key": "ubiquitous",
+        "val": "ubiquitous!"
+    },
+    "86": {
+        "key": "antidisestablishmentarianism",
+        "val": "antidisestablishmentarianism;"
+    },
+    "87": {
+        "key": "onomatopoeia",
+        "val": "onomatopoeia!"
+    },
+    "88": {
+        "key": "proclivity",
+        "val": "proclivity."
+    },
+    "89": {
+        "key": "disparate",
+        "val": "disparate;"
+    },
+    "90": {
+        "key": "quidnunc",
+        "val": "quidnunc."
+    },
+    "91": {
+        "key": "exacerbate",
+        "val": "exacerbate;"
+    },
+    "92": {
+        "key": "cynosure",
+        "val": "cynosure."
+    },
+    "93": {
+        "key": "verisimilitude",
+        "val": "verisimilitude!"
+    },
+    "94": {
+        "key": "obfuscate",
+        "val": "obfuscate;"
+    },
+    "95": {
+        "key": "vicissitude",
+        "val": "vicissitude."
+    },
+    "96": {
+        "key": "quizzaciously",
+        "val": "quizzaciously!"
+    },
+    "97": {
+        "key": "perspicacious",
+        "val": "perspicacious;"
+    },
+    "98": {
+        "key": "garrulous",
+        "val": "garrulous!"
+    },
+    "99": {
+        "key": "lackadaisical",
+        "val": "lackadaisical;"
+    },
+    "100": {
+        "key": "defenestration",
+        "val": "defenestration."
+    },
+    "101": {
+        "key": "green",
+        "val": "green"
+    },
+    "102": {
+        "key": "oh",
+        "val": "oh"
+    },
+    "103": {
+        "key": "quick",
+        "val": "quick"
+    },
+    "104": {
+        "key": "develop",
+        "val": "develop"
+    },
+    "105": {
+        "key": "ocean",
+        "val": "ocean"
+    },
+    "106": {
+        "key": "warm",
+        "val": "warm"
+    },
+    "107": {
+        "key": "free",
+        "val": "free"
+    },
+    "108": {
+        "key": "minute",
+        "val": "minute"
+    },
+    "109": {
+        "key": "strong",
+        "val": "strong"
+    },
+    "110": {
+        "key": "special",
+        "val": "special"
+    },
+    "111": {
+        "key": "mind",
+        "val": "mind"
+    },
+    "112": {
+        "key": "behind",
+        "val": "behind"
+    },
+    "113": {
+        "key": "clear",
+        "val": "clear"
+    },
+    "114": {
+        "key": "tail",
+        "val": "tail"
+    },
+    "115": {
+        "key": "produce",
+        "val": "produce"
+    },
+    "116": {
+        "key": "fact",
+        "val": "fact"
+    },
+    "117": {
+        "key": "street",
+        "val": "street"
+    },
+    "118": {
+        "key": "inch",
+        "val": "inch"
+    },
+    "119": {
+        "key": "multiply",
+        "val": "multiply"
+    },
+    "120": {
+        "key": "nothing",
+        "val": "nothing"
+    },
+    "121": {
+        "key": "course",
+        "val": "course"
+    },
+    "122": {
+        "key": "stay",
+        "val": "stay"
+    },
+    "123": {
+        "key": "wheel",
+        "val": "wheel"
+    },
+    "124": {
+        "key": "full",
+        "val": "full"
+    },
+    "125": {
+        "key": "force",
+        "val": "force"
+    },
+    "126": {
+        "key": "blue",
+        "val": "blue"
+    },
+    "127": {
+        "key": "object",
+        "val": "object"
+    },
+    "128": {
+        "key": "decide",
+        "val": "decide"
+    },
+    "129": {
+        "key": "surface",
+        "val": "surface"
+    },
+    "130": {
+        "key": "deep",
+        "val": "deep"
+    },
+    "131": {
+        "key": "moon",
+        "val": "moon"
+    },
+    "132": {
+        "key": "island",
+        "val": "island"
+    },
+    "133": {
+        "key": "foot",
+        "val": "foot"
+    },
+    "134": {
+        "key": "system",
+        "val": "system"
+    },
+    "135": {
+        "key": "busy",
+        "val": "busy"
+    },
+    "136": {
+        "key": "test",
+        "val": "test"
+    },
+    "137": {
+        "key": "record",
+        "val": "record"
+    },
+    "138": {
+        "key": "boat",
+        "val": "boat"
+    },
+    "139": {
+        "key": "common",
+        "val": "common"
+    },
+    "140": {
+        "key": "gold",
+        "val": "gold"
+    },
+    "141": {
+        "key": "possible",
+        "val": "possible"
+    },
+    "142": {
+        "key": "plane",
+        "val": "plane"
+    },
+    "143": {
+        "key": "stead",
+        "val": "stead"
+    },
+    "144": {
+        "key": "dry",
+        "val": "dry"
+    },
+    "145": {
+        "key": "wonder",
+        "val": "wonder"
+    },
+    "146": {
+        "key": "laugh",
+        "val": "laugh"
+    },
+    "147": {
+        "key": "thousand",
+        "val": "thousand"
+    },
+    "148": {
+        "key": "ago",
+        "val": "ago"
+    },
+    "149": {
+        "key": "ran",
+        "val": "ran"
+    },
+    "150": {
+        "key": "check",
+        "val": "check"
+    },
+    "151": {
+        "key": "game",
+        "val": "game"
+    },
+    "152": {
+        "key": "shape",
+        "val": "shape"
+    },
+    "153": {
+        "key": "equate",
+        "val": "equate"
+    },
+    "154": {
+        "key": "hot",
+        "val": "hot"
+    },
+    "155": {
+        "key": "miss",
+        "val": "miss"
+    },
+    "156": {
+        "key": "brought",
+        "val": "brought"
+    },
+    "157": {
+        "key": "heat",
+        "val": "heat"
+    },
+    "158": {
+        "key": "snow",
+        "val": "snow"
+    },
+    "159": {
+        "key": "tire",
+        "val": "tire"
+    },
+    "160": {
+        "key": "bring",
+        "val": "bring"
+    },
+    "161": {
+        "key": "yes",
+        "val": "yes"
+    },
+    "162": {
+        "key": "distant",
+        "val": "distant"
+    },
+    "163": {
+        "key": "fill",
+        "val": "fill"
+    },
+    "164": {
+        "key": "east",
+        "val": "east"
+    },
+    "165": {
+        "key": "paint",
+        "val": "paint"
+    },
+    "166": {
+        "key": "language",
+        "val": "language"
+    },
+    "167": {
+        "key": "among",
+        "val": "among"
+    },
+    "168": {
+        "key": "grand",
+        "val": "grand"
+    },
+    "169": {
+        "key": "ball",
+        "val": "ball"
+    },
+    "170": {
+        "key": "yet",
+        "val": "yet"
+    },
+    "171": {
+        "key": "wave",
+        "val": "wave"
+    },
+    "172": {
+        "key": "drop",
+        "val": "drop"
+    },
+    "173": {
+        "key": "heart",
+        "val": "heart"
+    },
+    "174": {
+        "key": "am",
+        "val": "am"
+    },
+    "175": {
+        "key": "present",
+        "val": "present"
+    },
+    "176": {
+        "key": "heavy",
+        "val": "heavy"
+    },
+    "177": {
+        "key": "dance",
+        "val": "dance"
+    },
+    "178": {
+        "key": "engine",
+        "val": "engine"
+    },
+    "179": {
+        "key": "position",
+        "val": "position"
+    },
+    "180": {
+        "key": "arm",
+        "val": "arm"
+    },
+    "181": {
+        "key": "wide",
+        "val": "wide"
+    },
+    "182": {
+        "key": "sail",
+        "val": "sail"
+    },
+    "183": {
+        "key": "material",
+        "val": "material"
+    },
+    "184": {
+        "key": "size",
+        "val": "size"
+    },
+    "185": {
+        "key": "vary",
+        "val": "vary"
+    },
+    "186": {
+        "key": "settle",
+        "val": "settle"
+    },
+    "187": {
+        "key": "speak",
+        "val": "speak"
+    },
+    "188": {
+        "key": "weight",
+        "val": "weight"
+    },
+    "189": {
+        "key": "general",
+        "val": "general"
+    },
+    "190": {
+        "key": "ice",
+        "val": "ice"
+    },
+    "191": {
+        "key": "matter",
+        "val": "matter"
+    },
+    "192": {
+        "key": "circle",
+        "val": "circle"
+    },
+    "193": {
+        "key": "pair",
+        "val": "pair"
+    },
+    "194": {
+        "key": "include",
+        "val": "include"
+    },
+    "195": {
+        "key": "divide",
+        "val": "divide"
+    },
+    "196": {
+        "key": "syllable",
+        "val": "syllable"
+    },
+    "197": {
+        "key": "felt",
+        "val": "felt"
+    },
+    "198": {
+        "key": "perhaps",
+        "val": "perhaps"
+    },
+    "199": {
+        "key": "pick",
+        "val": "pick"
+    },
+    "200": {
+        "key": "sudden",
+        "val": "sudden"
+    },
+    "201": {
+        "key": "count",
+        "val": "count"
+    },
+    "202": {
+        "key": "square",
+        "val": "square"
+    },
+    "203": {
+        "key": "reason",
+        "val": "reason"
+    },
+    "204": {
+        "key": "length",
+        "val": "length"
+    },
+    "205": {
+        "key": "represent",
+        "val": "represent"
+    },
+    "206": {
+        "key": "art",
+        "val": "art"
+    },
+    "207": {
+        "key": "subject",
+        "val": "subject"
+    },
+    "208": {
+        "key": "region",
+        "val": "region"
+    },
+    "209": {
+        "key": "energy",
+        "val": "energy"
+    },
+    "210": {
+        "key": "hunt",
+        "val": "hunt"
+    },
+    "211": {
+        "key": "bed",
+        "val": "bed"
+    },
+    "212": {
+        "key": "brother",
+        "val": "brother"
+    },
+    "213": {
+        "key": "egg",
+        "val": "egg"
+    },
+    "214": {
+        "key": "ride",
+        "val": "ride"
+    },
+    "215": {
+        "key": "cell",
+        "val": "cell"
+    },
+    "216": {
+        "key": "believe",
+        "val": "believe"
+    },
+    "217": {
+        "key": "fraction",
+        "val": "fraction"
+    },
+    "218": {
+        "key": "forest",
+        "val": "forest"
+    },
+    "219": {
+        "key": "sit",
+        "val": "sit"
+    },
+    "220": {
+        "key": "mighty",
+        "val": "mighty"
+    },
+    "221": {
+        "key": "follow",
+        "val": "follow"
+    },
+    "222": {
+        "key": "rub",
+        "val": "rub"
+    },
+    "223": {
+        "key": "chest",
+        "val": "chest"
+    },
+    "224": {
+        "key": "final",
+        "val": "final"
+    },
+    "225": {
+        "key": "village",
+        "val": "village"
+    },
+    "226": {
+        "key": "meet",
+        "val": "meet"
+    },
+    "227": {
+        "key": "sell",
+        "val": "sell"
+    },
+    "228": {
+        "key": "tool",
+        "val": "tool"
+    },
+    "229": {
+        "key": "particular",
+        "val": "particular"
+    },
+    "230": {
+        "key": "dad",
+        "val": "dad"
+    },
+    "231": {
+        "key": "amidst",
+        "val": "amidst"
+    },
+    "232": {
+        "key": "roof",
+        "val": "roof"
+    },
+    "233": {
+        "key": "government",
+        "val": "government"
+    },
+    "234": {
+        "key": "feather",
+        "val": "feather"
+    },
+    "235": {
+        "key": "finger",
+        "val": "finger"
+    },
+    "236": {
+        "key": "mountain",
+        "val": "mountain"
+    },
+    "237": {
+        "key": "wing",
+        "val": "wing"
+    },
+    "238": {
+        "key": "dull",
+        "val": "dull"
+    },
+    "239": {
+        "key": "expect",
+        "val": "expect"
+    },
+    "240": {
+        "key": "brother",
+        "val": "brother"
+    },
+    "241": {
+        "key": "ball",
+        "val": "ball"
+    },
+    "242": {
+        "key": "search",
+        "val": "search"
+    },
+    "243": {
+        "key": "arrange",
+        "val": "arrange"
+    },
+    "244": {
+        "key": "men",
+        "val": "men"
+    },
+    "245": {
+        "key": "night",
+        "val": "night"
+    },
+    "246": {
+        "key": "exercise",
+        "val": "exercise"
+    },
+    "247": {
+        "key": "sing",
+        "val": "sing"
+    },
+    "248": {
+        "key": "trouble",
+        "val": "trouble"
+    },
+    "249": {
+        "key": "jaw",
+        "val": "jaw"
+    }
+}

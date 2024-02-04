@@ -1,0 +1,403 @@
+{
+    "1": {
+      "key": "python",
+      "val": "print('Hello Python')"
+    },
+    "2": {
+      "key": "javascript",
+      "val": "console.log('Hi JavaScript')"
+    },
+    "3": {
+      "key": "java",
+      "val": "System.out.println('Hey Java')"
+    },
+    "4": {
+      "key": "csharp",
+      "val": "Console.WriteLine('Hola C#')"
+    },
+    "5": {
+      "key": "ruby",
+      "val": "puts 'Hola Ruby'"
+    },
+    "6": {
+      "key": "swift",
+      "val": "print('Bonjour Swift')"
+    },
+    "7": {
+      "key": "php",
+      "val": "echo 'Bonjour PHP'"
+    },
+    "8": {
+      "key": "typescript",
+      "val": "console.log('Hola TypeScript')"
+    },
+    "9": {
+      "key": "html",
+      "val": "<p>Hello HTML</p>"
+    },
+    "10": {
+      "key": "css",
+      "val": "color: blue; /* CSS Style */"
+    },
+    "11": {
+      "key": "sql",
+      "val": "SELECT * FROM table_name"
+    },
+    "12": {
+      "key": "json",
+      "val": "{ \"key\": \"value\" }"
+    },
+    "13": {
+      "key": "react",
+      "val": "render(<App />)"
+    },
+    "14": {
+      "key": "angular",
+      "val": "ngOnInit() { }"
+    },
+    "15": {
+      "key": "vue",
+      "val": "data() { return {} }"
+    },
+    "16": {
+      "key": "django",
+      "val": "return render(request, 'index.html')"
+    },
+    "17": {
+      "key": "flask",
+      "val": "return 'Hello, Flask!'"
+    },
+    "18": {
+      "key": "express",
+      "val": "app.get('/', (req, res) => res.send('Hola Express'))"
+    },
+    "19": {
+      "key": "nodejs",
+      "val": "console.log('Hola from Node.js')"
+    },
+    "20": {
+      "key": "php",
+      "val": "<?php echo 'Hola PHP'; ?>"
+    },
+    "21": {
+      "key": "python",
+      "val": "def hello():    print('Hello Python Function')"
+    },
+    "22": {
+      "key": "javascript",
+      "val": "alert('Hi JavaScript Alert')"
+    },
+    "23": {
+      "key": "java",
+      "val": "System.out.println('Hey Java System')"
+    },
+    "24": {
+      "key": "csharp",
+      "val": "Console.WriteLine('Hola C# Console')"
+    },
+    "25": {
+      "key": "ruby",
+      "val": "puts 'Hola Ruby Puts'"
+    },
+    "26": {
+      "key": "swift",
+      "val": "print('Bonjour Swift Print')"
+    },
+    "27": {
+      "key": "php",
+      "val": "echo 'Bonjour PHP Echo'"
+    },
+    "28": {
+      "key": "typescript",
+      "val": "console.log('Hola TypeScript Console')"
+    },
+    "29": {
+      "key": "html",
+      "val": "<p>Hello HTML Paragraph</p>"
+    },
+    "30": {
+      "key": "css",
+      "val": "color: blue; /* CSS Style Blue Color */"
+    },
+    "31": {
+      "key": "sql",
+      "val": "SELECT * FROM table_name"
+    },
+    "32": {
+      "key": "json",
+      "val": "{ \"key\": \"value\" }"
+    },
+    "33": {
+      "key": "react",
+      "val": "render(<App />)"
+    },
+    "34": {
+      "key": "angular",
+      "val": "ngOnInit() { }"
+    },
+    "35": {
+      "key": "vue",
+      "val": "data() { return {} }"
+    },
+    "36": {
+      "key": "django",
+      "val": "return render(request, 'index.html')"
+    },
+    "37": {
+      "key": "flask",
+      "val": "return 'Hello, Flask!'"
+    },
+    "38": {
+      "key": "express",
+      "val": "app.get('/', (req, res) => res.send('Hola Express'))"
+    },
+    "39": {
+      "key": "nodejs",
+      "val": "console.log('Hola from Node.js')"
+    },
+    "40": {
+      "key": "php",
+      "val": "<?php echo 'Hola PHP'; ?> "
+    },
+    "41": {
+      "key": "python",
+      "val": "def hello():    print('Hello Python Function')"
+    },
+    "42": {
+      "key": "javascript",
+      "val": "alert('Hi JavaScript Alert')"
+    },
+    "43": {
+      "key": "java",
+      "val": "System.out.println('Hey Java System')"
+    },
+    "44": {
+      "key": "csharp",
+      "val": "Console.WriteLine('Hola C# Console')"
+    },
+    "45": {
+      "key": "ruby",
+      "val": "puts 'Hola Ruby Puts'"
+    },
+    "46": {
+      "key": "swift",
+      "val": "print('Bonjour Swift Print')"
+    },
+    "47": {
+      "key": "php",
+      "val": "echo 'Bonjour PHP Echo'"
+    },
+    "48": {
+      "key": "typescript",
+      "val": "console.log('Hola TypeScript Console')"
+    },
+    "49": {
+      "key": "html",
+      "val": "<p>Hello HTML Paragraph</p>"
+    },
+    "50": {
+      "key": "css",
+      "val": "color: blue; /* CSS Style Blue Color */"
+    },
+    "51": {
+      "key": "sql",
+      "val": "SELECT * FROM table_name"
+    },
+    "52": {
+      "key": "json",
+      "val": "{ \"key\": \"value\" }"
+    },
+    "53": {
+      "key": "react",
+      "val": "render(<App />)"
+    },
+    "54": {
+      "key": "angular",
+      "val": "ngOnInit() { }"
+    },
+    "55": {
+      "key": "vue",
+      "val": "data() { return {} }"
+    },
+    "56": {
+      "key": "django",
+      "val": "return render(request, 'index.html')"
+    },
+    "57": {
+      "key": "flask",
+      "val": "return 'Hello, Flask!'"
+    },
+    "58": {
+      "key": "express",
+      "val": "app.get('/', (req, res) => res.send('Hola Express'))"
+    },
+    "59": {
+      "key": "nodejs",
+      "val": "console.log('Hola from Node.js')"
+    },
+    "60": {
+      "key": "php",
+      "val": "<?php echo 'Hola PHP'; ?> "
+    },
+    "61": {
+      "key": "python",
+      "val": "def hello():    print('Hello Python Function')"
+    },
+    "62": {
+      "key": "javascript",
+      "val": "alert('Hi JavaScript Alert')"
+    },
+    "63": {
+      "key": "java",
+      "val": "System.out.println('Hey Java System')"
+    },
+    "64": {
+      "key": "csharp",
+      "val": "Console.WriteLine('Hola C# Console')"
+    },
+    "65": {
+      "key": "ruby",
+      "val": "puts 'Hola Ruby Puts'"
+    },
+    "66": {
+      "key": "swift",
+      "val": "print('Bonjour Swift Print')"
+    },
+    "67": {
+      "key": "php",
+      "val": "echo 'Bonjour PHP Echo'"
+    },
+    "68": {
+      "key": "typescript",
+      "val": "console.log('Hola TypeScript Console')"
+    },
+    "69": {
+      "key": "html",
+      "val": "<p>Hello HTML Paragraph</p>"
+    },
+    "70": {
+      "key": "css",
+      "val": "color: blue; /* CSS Style Blue Color */"
+    },
+    "71": {
+      "key": "sql",
+      "val": "SELECT * FROM table_name"
+    },
+    "72": {
+      "key": "json",
+      "val": "{ \"key\": \"value\" }"
+    },
+    "73": {
+      "key": "react",
+      "val": "render(<App />)"
+    },
+    "74": {
+      "key": "angular",
+      "val": "ngOnInit() { }"
+    },
+    "75": {
+      "key": "vue",
+      "val": "data() { return {} }"
+    },
+    "76": {
+      "key": "django",
+      "val": "return render(request, 'index.html')"
+    },
+    "77": {
+      "key": "flask",
+      "val": "return 'Hello, Flask!'"
+    },
+    "78": {
+      "key": "express",
+      "val": "app.get('/', (req, res) => res.send('Hola Express'))"
+    },
+    "79": {
+      "key": "nodejs",
+      "val": "console.log('Hola from Node.js')"
+    },
+    "80": {
+      "key": "php",
+      "val": "<?php echo 'Hola PHP'; ?>"
+    },
+    "81": {
+      "key": "python",
+      "val": "def hello():    print('Hello Python Function')"
+    },
+    "82": {
+      "key": "javascript",
+      "val": "alert('Hi JavaScript Alert')"
+    },
+    "83": {
+      "key": "java",
+      "val": "System.out.println('Hey Java System')"
+    },
+    "84": {
+      "key": "csharp",
+      "val": "Console.WriteLine('Hola C# Console')"
+    },
+    "85": {
+      "key": "ruby",
+      "val": "puts 'Hola Ruby Puts'"
+    },
+    "86": {
+      "key": "swift",
+      "val": "print('Bonjour Swift Print')"
+    },
+    "87": {
+      "key": "php",
+      "val": "echo 'Bonjour PHP Echo'"
+    },
+    "88": {
+      "key": "typescript",
+      "val": "console.log('Hola TypeScript Console')"
+    },
+    "89": {
+      "key": "html",
+      "val": "<p>Hello HTML Paragraph</p>"
+    },
+    "90": {
+      "key": "css",
+      "val": "color: blue; /* CSS Style Blue Color */"
+    },
+    "91": {
+      "key": "sql",
+      "val": "SELECT * FROM table_name"
+    },
+    "92": {
+      "key": "json",
+      "val": "{ \"key\": \"value\" }"
+    },
+    "93": {
+      "key": "react",
+      "val": "render(<App />)"
+    },
+    "94": {
+      "key": "angular",
+      "val": "ngOnInit() { }"
+    },
+    "95": {
+      "key": "vue",
+      "val": "data() { return {} }"
+    },
+    "96": {
+      "key": "django",
+      "val": "return render(request, 'index.html')"
+    },
+    "97": {
+      "key": "flask",
+      "val": "return 'Hello, Flask!'"
+    },
+    "98": {
+      "key": "express",
+      "val": "app.get('/', (req, res) => res.send('Hola Express'))"
+    },
+    "99": {
+      "key": "nodejs",
+      "val": "console.log('Hola from Node.js')"
+    },
+    "100": {
+      "key": "php",
+      "val": "<?php echo 'Hola PHP'; ?>"
+    }
+  }
+  
