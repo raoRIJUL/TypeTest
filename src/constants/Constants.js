@@ -4,12 +4,10 @@ const COUNT_DOWN_60 = 60;
 const COUNT_DOWN_30 = 30;
 const COUNT_DOWN_15 = 15;
 const DEFAULT_COUNT_DOWN = COUNT_DOWN_30;
-
 const DEFAULT_DIFFICULTY = "normal";
 const HARD_DIFFICULTY = "hard";
 const PUNCT_DIFFICULTY = "punctuation";
 const CODE_DIFFICULTY = "coding";
-
 const RESTART_BUTTON_TOOLTIP_TITLE = "[Tab] + [Enter] to quickly restart";
 const REDO_BUTTON_TOOLTIP_TITLE = "[Tab] + [Space] to quickly redo";
 const RESTART_BUTTON_TOOLTIP_TITLE_WORDSCARD = "[Tab] + [Enter] to quick restart the chapter";
