@@ -1,7 +1,5 @@
 import EnglishMostFrequentWords from '../assets/Vocab/EnglishMostFrequentWords.json';
-
 import EnglishPunctuationWords from '../assets/Vocab/EnglishPunctuationWords.json'
-
 import CodingWordsSnippet from '../assets/Vocab/CodingWordsSnippet.json'
 
 const COMMON_WORDS = EnglishMostFrequentWords;
