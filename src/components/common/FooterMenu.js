@@ -74,8 +74,7 @@ const FooterMenu = ({
                     </Link>
                 </span>
               }
-              placement="top-start"
-            >
+              placement="top-start">
               <IconButton
                 href="https://github.com/jayantsB123/TypeSpeed"
                 color="inherit"
