@@ -31,7 +31,6 @@ const FooterMenu = ({
     return "zen-button-deactive";
   };
 
-
   return (
     <div className="footer">
       <Grid container justifyContent="space-between" alignItems="center">
