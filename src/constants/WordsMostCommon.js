@@ -3,7 +3,9 @@ import EnglishPunctuationWords from '../assets/Vocab/EnglishPunctuationWords.jso
 import CodingWordsSnippet from '../assets/Vocab/CodingWordsSnippet.json'
 
 const COMMON_WORDS = EnglishMostFrequentWords;
+
 const Punct_words = EnglishPunctuationWords;
+
 const CODE_WORDS = CodingWordsSnippet;
 
 export {
