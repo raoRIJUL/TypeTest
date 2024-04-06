@@ -4,8 +4,7 @@ import {
 } from "../constants/WordsMostCommon";
 import {
   DEFAULT_DIFFICULTY,
-  PUNCT_DIFFICULTY,
-  CODE_DIFFICULTY,ENGLISH_MODE,DEFAULT_WORDS_COUNT,
+  PUNCT_DIFFICULTY,CODE_DIFFICULTY,ENGLISH_MODE,DEFAULT_WORDS_COUNT,
 } from "../constants/Constants";
 import { randomIntFromRange } from "./randomUtils";
 
