@@ -2,9 +2,7 @@ import randomWords from "random-words";
 import {
   COMMON_WORDS, Punct_words , CODE_WORDS
 } from "../constants/WordsMostCommon";
-import {
-  DEFAULT_DIFFICULTY,PUNCT_DIFFICULTY,CODE_DIFFICULTY,ENGLISH_MODE,DEFAULT_WORDS_COUNT,
-} from "../constants/Constants";
+import {  DEFAULT_DIFFICULTY,PUNCT_DIFFICULTY,CODE_DIFFICULTY,ENGLISH_MODE,DEFAULT_WORDS_COUNT, } from "../constants/Constants";
 import { randomIntFromRange } from "./randomUtils";
 
 const wordsGenerator = (wordsCount, difficulty, languageMode) => {
