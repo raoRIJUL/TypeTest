@@ -8,5 +8,4 @@ const randomIntFromRange = (min, max) => {
   
   return idx;
 };
-
 export { randomIntFromRange };
