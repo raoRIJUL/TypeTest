@@ -7,6 +7,7 @@ const useLocalPersistState = (defaultValue, key) => {
     const persistValue = window.localStorage.getItem(key);
     
     return persistValue !== null ? JSON.parse(persistValue) : defaultValue;
+    
   });
 
   useEffect(() => {
