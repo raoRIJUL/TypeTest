@@ -13,6 +13,7 @@ const useLocalPersistState = (defaultValue, key) => {
   useEffect(() => {
     
     window.localStorage.setItem(key, JSON.stringify(value));
+    
   }, [key, value]);
 
   return [value, setValue];
