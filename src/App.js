@@ -68,21 +68,6 @@ function App() {
 
   const [init, setInit] = useState(false);
 
-  useEffect(() => {
-    let unmounted = false;
-    initParticlesEngine(async (engine) => {
-      try {
-        await loadSlim(engine);
-        if (!unmounted) {
-          setInit(true);
-        }
-      } catch (error) {
-        console.error("Error initializing particles:", error);
-        // Handle error appropriately
-      }
-    });
-
-
   const particlesLoaded = (container) => {
     console.log(container);
   };
