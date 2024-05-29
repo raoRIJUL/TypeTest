@@ -68,10 +68,6 @@ function App() {
 
   const [init, setInit] = useState(false);
 
-  const particlesLoaded = (container) => {
-    console.log(container);
-  };
-
   const options = useMemo(
     () => ({
       background: {
