@@ -82,10 +82,6 @@ function App() {
       }
     });
 
-    return () => {
-      unmounted = true;
-    };
-  }, []);
 
   const particlesLoaded = (container) => {
     console.log(container);
