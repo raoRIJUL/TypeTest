@@ -68,25 +68,7 @@ function App() {
 
   const [init, setInit] = useState(false);
 
-  const options = useMemo(
-    () => ({
-      background: {
-        color: {
-          value: theme,
-        },
-      },
-      fpsLimit: 120,
-      interactivity: {
-        events: {
-          onClick: {
-            enable: true,
-            mode: "push",
-          },
-          onHover: {
-            enable: true,
-            mode: "repulse",
-          },
-        },
+  
         modes: {
           push: {
             quantity: 4,
