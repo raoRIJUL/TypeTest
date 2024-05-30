@@ -14,7 +14,6 @@ import {
 import useLocalPersistState from "./hooks/useLocalPersistState";
 import DefaultKeyboard from "./components/features/Keyboard/DefaultKeyboard";
 
-
 function App() {
   const [theme, setTheme] = useState(() => {
     const stickyTheme = window.localStorage.getItem("theme");
@@ -68,7 +67,48 @@ function App() {
 
   const [init, setInit] = useState(false);
 
-  
+  useEffect(() => {
+    let unmounted = false;
+    initParticlesEngine(async (engine) => {
+      try {
+        await loadSlim(engine);
+        if (!unmounted) {
+          setInit(true);
+        }
+      } catch (error) {
+        console.error("Error initializing particles:", error);
+        // Handle error appropriately
+      }
+    });
+
+    return () => {
+      unmounted = true;
+    };
+  }, []);
+
+  const particlesLoaded = (container) => {
+    console.log(container);
+  };
+
+  const options = useMemo(
+    () => ({
+      background: {
+        color: {
+          value: theme,
+        },
+      },
+      fpsLimit: 120,
+      interactivity: {
+        events: {
+          onClick: {
+            enable: true,
+            mode: "push",
+          },
+          onHover: {
+            enable: true,
+            mode: "repulse",
+          },
+        },
         modes: {
           push: {
             quantity: 4,
